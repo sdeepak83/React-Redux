@@ -1,4 +1,4 @@
-This is React-redux project.
+This is a React-redux project.
 
 Here we manage the state using redux. 
 

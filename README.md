@@ -1,8 +1,11 @@
-# React + Vite
+This is React-redux project.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Here we manage the state using redux. 
 
-Currently, two official plugins are available:
+In this project if we clicke in add to cart so item add in cart and price update autometically.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+In this project we also use React-Router.
+
+Here i am also use React-Toastify to notify sucess message
+
+
